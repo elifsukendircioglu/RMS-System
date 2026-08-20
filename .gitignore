@@ -1,0 +1,9 @@
+# .NET derleme çıktıları
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
+# Python geçici dosyaları
+__pycache__/
+*.pyc
